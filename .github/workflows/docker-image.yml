@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/ggnhnh2024/fly4-0728:latest
+          tags: ghcr.io/ggnhnh2024/fly4--0728:latest
